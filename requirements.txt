@@ -1,0 +1,38 @@
+# Core LLM API client
+openai>=1.0.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Rich CLI formatting
+rich>=13.0.0
+
+# Date and time handling (standard lib, listed for clarity)
+# datetime (built-in)
+
+# JSON handling (built-in)
+# json (built-in)
+
+# Optional: For future web app upgrades
+flask>=2.3.0
+
+# Optional: For Streamlit dashboard version
+streamlit>=1.28.0
+
+# Optional: For notifications & reminders
+schedule>=1.2.0
+plyer>=2.1.0
+
+# Optional: For PDF export (future)
+fpdf>=1.7.2
+
+# Optional: For calendar integration (future)
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+
+# Optional: Data handling & analytics
+pandas>=2.0.0
+
+# Optional: HTTP requests
+requests>=2.31.0
